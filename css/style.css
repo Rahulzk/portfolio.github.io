@@ -88,3 +88,9 @@ html{
     width: 80%;
     border-radius: 10px;
 }
+
+.node p{
+    background: linear-gradient(to right ,rgba(73, 221, 29, 0.349),rgba(124, 171, 209, 0.9)) ;
+    width: 20%;
+    border-radius: 10px;
+}

@@ -75,7 +75,7 @@ html{
 }
 .react p{
 	background: linear-gradient(to right ,rgba(36, 235, 10, 0.349),rgba(228, 10, 235, 0.9)) ;
-    width: 15%;
+    width: 75%;
     border-radius: 10px;
 }
 .cpp p{
@@ -91,6 +91,6 @@ html{
 
 .node p{
     background: linear-gradient(to right ,rgba(73, 221, 29, 0.349),rgba(124, 171, 209, 0.9)) ;
-    width: 20%;
+    width: 70%;
     border-radius: 10px;
 }
